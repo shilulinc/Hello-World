@@ -1,6 +1,3 @@
-# Hello-World
-# My Repository
-
 - 👋 Hi, I’m @shilulinc
 - 👀 I’m interested in Python、Golang、Kubernetes、Cloud Native
 - 🌱 I’m currently learning Golang
